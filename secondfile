@@ -5,6 +5,10 @@ hhhhhhhhhh hello
 =======
 =======
 hii this is second file
+<<<<<<< HEAD
+>>>>>>> training
+=======
+third change made 
 >>>>>>> training
 hi second file
 >>>>>>> training
